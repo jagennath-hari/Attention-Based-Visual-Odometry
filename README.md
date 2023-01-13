@@ -92,7 +92,7 @@ Benchmarks of our method against other state of the art methods.
 
 ## 📑 Report
 
-A detailed [REPORT](https://github.com/navoday01/Attention-Based-Visual-Odometry/blob/main/Attention_based_Visual_Odometry.pdf) can be read to better understand our algorithm.
+A detailed [REPORT](Attention_based_Visual_Odometry.pdf) can be read to better understand our algorithm.
 
 
 ## 📦 Conclusion
